@@ -11,6 +11,7 @@ namespace E_Contact
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
+        // HAcktober fest here we come!!!!
         [STAThread]
         static void Main()
         {
